@@ -1,0 +1,87 @@
+# WALLETS & BROWSER EXTENSIONS
+MetaMask/metamask-extension
+MetaMask/metamask-mobile
+rainbow-me/rainbow
+TrustWallet/wallet-core
+argentlabs/argent-contracts
+
+# DEVELOPMENT FRAMEWORKS
+OpenZeppelin/openzeppelin-contracts
+OpenZeppelin/openzeppelin-sdk
+trufflesuite/truffle
+trufflesuite/ganache
+nomiclabs/hardhat
+foundry-rs/foundry
+sc-forks/solidity-coverage
+
+# BLOCKCHAIN CLIENTS & NODES
+ethereum/go-ethereum
+ethereum/py-evm
+paritytech/polkadot
+hyperledger/besu
+ConsenSys/teku
+
+# WEB3 LIBRARIES
+ethers-io/ethers.js
+ChainSafe/web3.js
+ChainSafe/web3.php
+web3j/web3j
+ethereum/web3.py
+
+# SMART CONTRACT TOOLS
+ethereum/remix-project
+ethereum/solidity
+ConsenSys/smart-contract-best-practices
+crytic/slither
+crytic/echidna
+
+# DEFI & DAPPS
+Uniswap/v3-core
+Uniswap/v3-periphery
+aave/aave-v3-core
+compound-finance/compound-protocol
+balancer-labs/balancer-core
+sushiswap/sushiswap
+yearn/yearn-protocol
+
+# NFT & TOKENS
+ProjectOpenSea/opensea-js
+0xcert/ethereum-erc721
+OpenZeppelin/openzeppelin-contracts-upgradeable
+maticnetwork/pos-portal
+
+# SECURITY & AUDITING
+ConsenSys/mythril
+crytic/not-so-smart-contracts
+trailofbits/not-so-smart-contracts
+smartcontractsecurity/SCSVS
+
+# ORACLES & DATA
+smartcontractkit/chainlink
+api3dao/api3-dao
+tellor-io/tellorCore
+
+# SCALING SOLUTIONS
+OffchainLabs/arbitrum
+maticnetwork/heimdall
+optimism/optimism
+matter-labs/zksync
+
+# CROSS-CHAIN
+cosmos/cosmos-sdk
+wormhole-foundation/wormhole
+ChainSafe/ChainBridge
+
+# CRYPTO & UTILITIES
+bitcoin/bitcoin
+bitcoin-core/secp256k1
+libbitcoin/libbitcoin
+mempool/mempool
+
+# ADDITIONAL IMPORTANT REPOS
+graphprotocol/graph-node
+thegraph/graph-tooling
+ipfs/go-ipfs
+status-im/status-mobile
+raiden-network/raiden
+lightningnetwork/lnd
