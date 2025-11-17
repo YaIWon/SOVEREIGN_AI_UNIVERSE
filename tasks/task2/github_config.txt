@@ -1,2 +1,2 @@
-GITHUB_USERNAME=Yaiwon
-GITHUB_TOKEN=your_github_personal_access_token_here
+GITHUB_USERNAME=YaIWon
+GITHUB_TOKEN=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
