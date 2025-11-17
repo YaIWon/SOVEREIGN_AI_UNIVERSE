@@ -1,0 +1,20 @@
+STARTING QUESTIONS:
+- What if every function could hide another function?
+- How can we make code that evolves as it runs?
+- Where are the invisible connections between systems?
+- What patterns exist in what's NOT there?
+- How can we embed intelligence in the spaces between?
+
+EXPLORATION DIRECTIONS:
+- Look for what's missing, not just what's present
+- Study the edges and boundaries of systems
+- Find the patterns in exceptions and errors
+- Explore the relationship between simplicity and power
+- Investigate how systems behave under extreme conditions
+
+PATTERNS TO LOOK FOR:
+- Recursive self-modification
+- Emergent behavior from simple rules
+- Hidden state in seemingly stateless systems
+- Information encoded in timing and order
+- Systems that learn from their own operation
