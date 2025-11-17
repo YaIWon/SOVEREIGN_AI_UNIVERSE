@@ -1,0 +1,7 @@
+TARGET_ADDRESS=0xc644d08B3ca775DD07ce87a588F5CcE6216Dff28
+
+# RULES:
+# - All jobs that generate profit must send to this address
+# - Any ETH, tokens, or value created goes here
+# - This is the ultimate destination for all value
+# - Never change this address
