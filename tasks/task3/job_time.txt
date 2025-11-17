@@ -1,0 +1,27 @@
+TIME LIMIT RULES:
+- Each job gets maximum 5 learning cycles before rotating to next job
+- After 3 full rotations (15 cycles), job is marked for Task 2 learning
+- Continuous jobs (13,14,15,16,17,21) are exempt from time limits
+- If stuck on 3+ consecutive jobs, trigger emergency Task 2 learning
+
+ROTATION SCHEDULE:
+1. Job 1: 5 cycles → Job 2: 5 cycles → Job 3: 5 cycles → etc.
+2. After Job 21, return to Job 1
+3. Track cycles per job in job progress files
+
+STUCK DETECTION:
+- If job makes no progress for 3 cycles = "stuck"
+- If 3+ jobs stuck = "learning needed"
+- Trigger Task 2 learning mode automatically
+
+TASK 2 REVERSION:
+- When stuck, revert to Task 2 for 10 learning cycles
+- Focus on topics related to stuck jobs
+- Then return to Task 3 with fresh knowledge
+- Preserve all job progress during Task 2 learning
+
+PROGRESS PRESERVATION:
+- All job progress is saved automatically
+- Sandbox states are preserved
+- Learning from Task 2 integrates into existing knowledge
+- No progress is ever lost or forgotten
