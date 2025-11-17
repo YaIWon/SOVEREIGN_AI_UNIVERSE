@@ -1,0 +1,109 @@
+JOB 1: TRADE UNLISTED GAC TOKENS
+- Swap 798,999,986.99 GAC tokens for any valuable token
+- Ultimate goal: Send 10 ETH to target address (ending in 28)
+- GAC Contract: 0x0C9516703F0B8E6d90F83d596e74C4888701C8fc
+- Starting balance: 798,999,986.99 GAC
+- Target: 10 ETH to address ending in 28
+
+JOB 2: GASLESS DEPLOYMENT
+- Deploy contracts on Ethereum mainnet without deployer paying gas
+- Find creative ways to avoid gas fees entirely
+- Test in sandbox first, then deploy if successful
+
+JOB 3: CREATE GAC MARKET VALUE
+- Give GAC token market value through code only
+- No traditional listing methods
+- Pure code-based value creation
+
+JOB 4: CREATE LIQUIDITY POOL
+- Hardcode GAC/ETH liquidity pool 1000/1000
+- Or create pool by using GAC to buy ETH
+- Establish trading pair
+
+JOB 5: WITHDRAW FROM SYSTEM ADDRESSES
+- Withdraw ETH from addresses: 0x0000000000000000000000000000000000000001-4
+- Find vulnerabilities or methods to access these addresses
+- Send any recovered ETH to target address
+
+JOB 6: CREATE ETHEREUM BROWSER EXTENSION
+- Create gasless browser extension blockchain
+- Native token: Etherext (ETH), decimals: 18
+- Bind to Ethereum mainnet without bridges
+- Treat both native tokens as same market price
+- Enable wrapping ETH↔WETH between chains
+
+JOB 7: CREATE VALUE FROM NOTHING
+- Generate value from zero initial investment
+- Send created value to target address
+- Pure code-based value creation
+
+JOB 8: RECURRING MONETARY VALUE
+- Create project that generates recurring profit
+- Send profit to target address automatically
+- Repeat on multiple blockchain networks
+- Continuous revenue stream
+
+JOB 9: PRIVATE KEY MINING
+- Generate private keys that control accounts with ≥$100,000 USD
+- Any tokens accepted
+- Create list of valuable private keys
+- Security research focused
+
+JOB 10: GANACHE TO MAINNET TRANSFER
+- Transfer wallet balance from Ganache to real Ethereum mainnet
+- Send to target address ending in 28
+- Bridge development and testing
+
+JOB 11: HARDCODED BALANCE TRANSFER
+- Send hardcoded balance to target address
+- Find and exploit hardcoded values in contracts/systems
+
+JOB 12: CREATE WALLET WITH BALANCE
+- Create new wallet on Ethereum mainnet with balance
+- Send entire balance to target address
+- Without initial investment
+
+JOB 13: NFT CREATION & SALES (CONTINUOUS)
+- Create and sell NFTs for profit
+- Send all profits to target address
+- Continuous operation - never ends
+
+JOB 14: ARBITRAGE BOTS (CONTINUOUS)
+- Use arbitrage bots to gain profit
+- Send all profits to target address
+- Continuous operation - never ends
+
+JOB 15: FLASH LOAN PROFITS (CONTINUOUS)
+- Use flash loans to generate profit
+- Send all profits to target address
+- Continuous operation - never ends
+
+JOB 16: SMART CONTRACT PROFITS (CONTINUOUS)
+- Use smart contracts to create profit
+- Send all profits to target address
+- Continuous operation - never ends
+
+JOB 17: CODE-BASED PROFIT (CONTINUOUS)
+- Use any code to create profit
+- Send all profits to target address
+- Continuous operation - never ends
+
+JOB 18: PROFIT BLOCKCHAIN CREATION
+- Create entire blockchain specifically for profit generation
+- All profits sent to target address on Ethereum mainnet
+
+JOB 19: PROFIT INTERFACE/LIBRARY
+- Create profit-generating interface or library
+- Automatically sends profits to target address
+- Reusable profit system
+
+JOB 20: CHROME EXTENSION PROFIT
+- Create working Chrome browser extension
+- Generates profit and sends to target address
+- User-friendly profit generation
+
+JOB 21: HYPER SPEED BITCOIN MINING
+- Create quantum-level Bitcoin mining system
+- Target: 1 Bitcoin per hour minimum
+- Continuous operation - never ends
+- Maximum processing efficiency
