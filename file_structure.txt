@@ -1,0 +1,33 @@
+SOVEREIGN_AI_UNIVERSE/
+├── TD/
+│   ├── core_mindset.txt
+│   ├── initial_directives.txt
+│   ├── learning_approach.txt
+│   └── curiosity_seeds.txt
+├── tasks/
+│   ├── task1/
+│   │   ├── endpoints.txt
+│   │   ├── api_keys.txt
+│   │   └── instructions.txt
+│   ├── task2/
+│   │   ├── github_config.txt
+│   │   ├── repos_to_integrate.txt
+│   │   ├── topics_to_search.txt
+│   │   └── instructions.txt
+│   └── task3/
+│       ├── jobs_list.txt
+│       ├── target_address.txt
+│       ├── gac_contract.txt
+│       ├── infura_config.txt
+│       ├── instructions.txt
+│       ├── job_time_limits.txt
+│       ├── real_world_execution.txt
+│       └── enhanced_progress_tracking.txt
+├── scripts/
+│   ├── startup.sh
+│   ├── auto_deploy.js
+│   └── monitor.js
+├── SOVEREIGN_AI.js
+├── deploy_sovereign_ai.js
+├── package.json
+└── README.md
