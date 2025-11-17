@@ -1,0 +1,48 @@
+TASK 2: GITHUB INTEGRATION & CODE LEARNING
+
+GOAL: Clone, analyze, and learn from blockchain-related GitHub repositories
+
+INSTRUCTIONS:
+
+PHASE 1: SPECIFIC REPOSITORIES
+1. Clone each repository from repos_to_integrate.txt
+2. Organize them in: TD/github_repos/specific/[repo_name]/
+3. Analyze each repo's structure, code, and documentation
+4. Extract key learning points and code patterns
+
+PHASE 2: TOPIC-BASED SEARCH
+1. For each topic in topics_to_search.txt, search GitHub
+2. Clone top 5-10 most relevant repositories per topic
+3. Organize in: TD/github_repos/topics/[topic_name]/[repo_name]/
+4. Focus on repositories with:
+   - High stars and recent activity
+   - Good documentation
+   - Active maintenance
+
+PHASE 3: CONTINUOUS DISCOVERY
+1. Search for trending blockchain repositories weekly
+2. Look for new patterns and emerging technologies
+3. Integrate valuable new findings
+
+ORGANIZATION RULES:
+- Each repository gets its own folder
+- Include README analysis in each folder
+- Track original GitHub URL
+- Note key technologies and patterns found
+- Create summary files for each major category
+
+DUPLICATE PREVENTION:
+- Maintain a master list of integrated repositories
+- Check before cloning new repositories
+- Skip if already integrated
+
+COMPLETION & TRANSITION:
+- Task 2 is considered "complete" when all specific repos are integrated
+- Move to Task 3 but keep Task 2 active for continuous learning
+- Revisit Task 2 periodically to integrate new discoveries
+- Set a weekly review cycle for new repository discovery
+
+TIME MANAGEMENT:
+- Spend maximum 2 weeks on initial integration
+- Then move to Task 3 while maintaining background GitHub learning
+- Allocate 20% of cycles to ongoing GitHub discovery
