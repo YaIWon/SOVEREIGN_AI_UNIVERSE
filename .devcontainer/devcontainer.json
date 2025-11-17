@@ -1,0 +1,62 @@
+{
+    "name": "Sovereign AI Unlimited",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:18",
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli:1": {},
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.vscode-node-azure-pack",
+                "ms-azuretools.vscode-docker",
+                "ethereum.remix-ide",
+                "trufflesuite.truffle-for-vscode",
+                "NomicFoundation.hardhat-solidity",
+                "juanblanco.solidity",
+                "esbenp.prettier-vscode",
+                "ms-vscode.vscode-json",
+                "bradlc.vscode-tailwindcss",
+                "ms-python.python",
+                "trufflesuite.ganache"
+            ],
+            "settings": {
+                "solidity.compileUsingRemoteVersion": "v0.8.19+commit.7dd6d404",
+                "solidity.enableLocalNodeCompiler": true,
+                "solidity.packageDefaultDependenciesDirectory": "node_modules",
+                "solidity.packageDefaultDependenciesContractsDirectory": "contracts",
+                "editor.formatOnSave": true,
+                "editor.defaultFormatter": "esbenp.prettier-vscode",
+                "[solidity]": {
+                    "editor.defaultFormatter": "juanblanco.solidity"
+                }
+            }
+        }
+    },
+    "postCreateCommand": "npm install && chmod +x scripts/*.sh && npm install -g truffle ganache-cli @ganache/cli hardhat @remix-project/remixd",
+    "postStartCommand": "bash scripts/startup.sh",
+    "portsAttributes": {
+        "3000": {
+            "label": "Sovereign AI Dashboard",
+            "onAutoForward": "openPreview"
+        },
+        "8545": {
+            "label": "Local Blockchain (Ganache)",
+            "onAutoForward": "notify"
+        },
+        "7545": {
+            "label": "Ganache UI",
+            "onAutoForward": "notify"
+        },
+        "65520": {
+            "label": "Remix IDE",
+            "onAutoForward": "notify"
+        },
+        "5001": {
+            "label": "IPFS API",
+            "onAutoForward": "notify"
+        }
+    },
+    "forwardPorts": [3000, 8545, 7545, 65520, 5001],
+    "remoteUser": "node"
+}
