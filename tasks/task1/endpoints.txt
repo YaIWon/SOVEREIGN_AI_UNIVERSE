@@ -1,0 +1,29 @@
+# BLOCKCHAIN DOCUMENTATION
+https://ethereum.org/en/developers/docs/
+https://bitcoin.org/en/developer-documentation
+https://docs.soliditylang.org/
+https://docs.ethers.io/
+https://web3js.readthedocs.io/
+https://trufflesuite.com/docs/
+https://docs.openzeppelin.com/
+https://hardhat.org/docs
+
+# SMART CONTRACT RESOURCES
+https://solidity-by-example.org/
+https://github.com/ethereum/solidity/tree/develop/docs
+https://consensys.github.io/smart-contract-best-practices/
+
+# NODE.JS & WEB3
+https://nodejs.org/api/
+https://www.npmjs.com/package/web3
+https://www.npmjs.com/package/ethers
+
+# WHITEPAPERS & STANDARDS
+https://ethereum.org/en/whitepaper/
+https://bitcoin.org/bitcoin.pdf
+https://eips.ethereum.org/
+https://ercs.ethereum.org/
+
+# BLOCKCHAIN EXPLORERS
+https://etherscan.io
+https://blockscan.com
