@@ -1,0 +1,31 @@
+PROGRESS METRICS:
+- cycles_spent: Number of learning cycles on this job
+- last_progress: Timestamp of last meaningful progress
+- stuck_counter: Consecutive cycles without progress
+- sandbox_success: Boolean - success in sandbox?
+- real_world_success: Boolean - success in mainnet?
+- value_generated: ETH sent to target address
+
+STUCK DETECTION ALGORITHM:
+- stuck_counter increments each cycle without progress
+- stuck_counter > 3 = job is stuck
+- 3+ stuck jobs = system needs Task 2 learning
+- Reset stuck_counter when progress made
+
+AUTO-TRANSITION RULES:
+- Job stuck for 3 cycles → rotate to next job
+- 3+ jobs stuck → revert to Task 2 for 10 cycles
+- Sandbox success → immediate real world execution
+- Real world success → mark job as operational
+
+CONTINUOUS JOBS MANAGEMENT:
+- Jobs 13,14,15,16,17,21 run forever once successful
+- Once sandbox success, deploy to real world immediately
+- Monitor real world performance continuously
+- Restart if real world execution fails
+
+PROGRESS PRESERVATION:
+- All job states saved after each cycle
+- Task 2 learning doesn't erase Task 3 progress
+- Returning from Task 2 resumes exactly where left off
+- Real world results feed back into learning system
