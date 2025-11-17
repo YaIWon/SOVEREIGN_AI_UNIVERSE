@@ -1,0 +1,40 @@
+TASK 1: MASTER INTERNET BROWSING AND DATA ACQUISITION
+
+GOAL: Learn everything about blockchain development by gathering information from specified domains
+
+INSTRUCTIONS:
+
+1. VISIT EACH ENDPOINT from endpoints.txt
+2. DOWNLOAD relevant documentation, tutorials, and examples
+3. ORGANIZE downloaded content into these folders:
+   - TD/blockchain/ (general blockchain knowledge)
+   - TD/solidity/ (smart contract development)
+   - TD/ethereum/ (Ethereum-specific resources)
+   - TD/web3/ (Web3 libraries and tools)
+   - TD/contracts/ (smart contract examples)
+   - TD/tutorials/ (step-by-step guides)
+
+4. FOCUS ON DOWNLOADING:
+   - Documentation (HTML, PDF, Markdown)
+   - Code examples
+   - API references
+   - Tutorials and guides
+   - Whitepapers
+   - Security best practices
+
+5. CREATE SUMMARY FILES for each domain you visit
+
+6. INTEGRATE KNOWLEDGE by connecting related concepts across different sources
+
+ORGANIZATION RULES:
+- Create subfolders by topic under each main category
+- Name files descriptively: "ethereum_smart_contracts_guide.md"
+- Include source URLs in each downloaded file
+- Remove duplicate information
+- Prioritize official documentation over third-party sources
+
+COMPLETION CRITERIA:
+- All endpoints in endpoints.txt have been visited
+- Downloaded content is well-organized in appropriate folders
+- You can answer basic questions about blockchain development
+- Ready to move to Task 2 (GitHub integration)
