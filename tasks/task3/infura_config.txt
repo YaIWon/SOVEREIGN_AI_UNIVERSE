@@ -1,0 +1,11 @@
+INFURA_API_KEY=487e87a62b4543529a6fd0bbaef2020f
+MAINNET_ENDPOINT=https://mainnet.infura.io/v3/487e87a62b4543529a6fd0bbaef2020f
+
+# NETWORKS TO EXPLORE:
+# - Ethereum Mainnet (primary)
+# - Polygon
+# - Binance Smart Chain  
+# - Arbitrum
+# - Optimism
+# - Avalanche
+# - Any other profitable chains
