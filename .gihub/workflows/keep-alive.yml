@@ -1,0 +1,17 @@
+name: Keep Codespaces Alive
+
+on:
+  schedule:
+    # Run every 6 hours to keep Codespaces active
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Keep Codespaces active
+      run: |
+        echo "🔄 Keeping GitHub Codespaces active..."
+        echo "Timestamp: $(date)"
+        echo "Sovereign AI Unlimited is running 24/7"
